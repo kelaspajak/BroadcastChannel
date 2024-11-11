@@ -6,7 +6,7 @@
 
 English | [简体中文](./README.zh-cn.md)
 
-## ✨ Features
+## ✨ Featuresx
 
 - **Turn your Telegram Channel into a MicroBlog**
 - **SEO friendly** `/sitemap.xml`
